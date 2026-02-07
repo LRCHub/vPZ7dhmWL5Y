@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Princess GaL",
+  "base_artist": "浜野はるき",
+  "createdAt": "2026-02-07T02:52:00.476107Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Princess GaL",
+      "artist": "浜野 はるき",
+      "has_synced": false,
+      "path": "select/pl_01_Princess_GaL_浜野_はるき.txt"
+    }
+  ]
+}
